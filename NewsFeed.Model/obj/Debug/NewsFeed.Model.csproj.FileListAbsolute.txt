@@ -1,0 +1,13 @@
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\NewsFeed.Model.dll.config
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\NewsFeed.Model.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\NewsFeed.Model.pdb
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\EntityFramework.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\NewsFeed.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\NewsFeed.Entity.pdb
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\EntityFramework.xml
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\obj\Debug\NewsFeed.Model.csprojAssemblyReference.cache
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\obj\Debug\NewsFeed.Model.csproj.CopyComplete
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\obj\Debug\NewsFeed.Model.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Model\obj\Debug\NewsFeed.Model.pdb

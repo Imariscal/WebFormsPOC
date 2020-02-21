@@ -1,0 +1,4 @@
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Entity\bin\Debug\NewsFeed.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Entity\bin\Debug\NewsFeed.Entity.pdb
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Entity\obj\Debug\NewsFeed.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Entity\obj\Debug\NewsFeed.Entity.pdb

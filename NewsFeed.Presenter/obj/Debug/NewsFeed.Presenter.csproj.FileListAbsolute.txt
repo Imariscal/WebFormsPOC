@@ -1,0 +1,13 @@
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Presenter.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Presenter.pdb
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Entity.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Model.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\EntityFramework.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Entity.pdb
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Model.pdb
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\NewsFeed.Model.dll.config
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\bin\Debug\EntityFramework.xml
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\obj\Debug\NewsFeed.Presenter.csprojAssemblyReference.cache
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\obj\Debug\NewsFeed.Presenter.csproj.CopyComplete
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\obj\Debug\NewsFeed.Presenter.dll
+C:\Users\ignacio.mariscal\source\repos\NewsFeed.Web\NewsFeed.Presenter\obj\Debug\NewsFeed.Presenter.pdb
